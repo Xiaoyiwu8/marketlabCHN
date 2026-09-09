@@ -31,4 +31,20 @@
 
 ## 2026-09-09 每日买入候选
 首页新增每日最多4只场内ETF买入候选，计划观察2—5个交易日。检查同日数据、大盘趋势、均线、5日/20日动量、追高限制及成交量；同板块最多一只，不满足条件留空。列出入选理由、买入前核实事项和退出条件。仅覆盖12只观察池ETF，未做短线策略回测，不保证收益。页面随行情更新；主动定时推送尚未开启。
+## Disclaimer
 
+**For Research, Education, and Simulated Trading Only**
+
+MarketLabCHN is intended solely for research, educational purposes, and hypothetical trading analysis. It does not connect to brokerage accounts, place real orders, or execute transactions. Any simulated trades, position calculations, or results are hypothetical and do not represent actual investment performance.
+
+**Not Investment Advice**
+
+All fund shortlists, rankings, buy/sell signals, market commentary, and other information are provided for informational purposes only. Nothing on this platform constitutes personalized investment advice or an offer or solicitation to buy or sell any security or fund. The platform does not consider your financial circumstances, investment objectives, or risk tolerance.
+
+**Data and Performance Limitations**
+
+Market data may be delayed, incomplete, or inaccurate. Strategies have not been comprehensively backtested. Simulated results may not reflect fees, slippage, liquidity constraints, or actual execution conditions. Past performance and hypothetical results do not guarantee future returns.
+
+**Investment Risk**
+
+Investing involves risk, including loss of principal. Independently verify information and assess suitability before making investment decisions. Consult a qualified financial professional where appropriate. You remain responsible for your own investment decisions.
